@@ -27,21 +27,8 @@ Below are some screenshots of the RollTheDice app:
 
 
 
-### Currency Convert Screen
-![Currency Convert](./DemoImages/CurrancyConvert.png)
-
-
-
-
-### Negative Currency Error
-![Negative Currency](./DemoImages/NagativeCurrancy.png)
-
-
-
-
-### Error Check Screen
-![Error Check](./DemoImages/ErrorCheck.png)
-
+### After click on RollTheDice Button Screen
+![Currency Convert](./DemoImages/clickroolbtn.png)
 
 
 
