@@ -8,7 +8,16 @@ Click the button below to download the APK for Android.
 
 [![Download APK](https://img.shields.io/badge/Download-APK-green?style=for-the-badge&logo=android)](https://drive.google.com/file/d/1JtI_d3ujdw0QCdvUP-TpzvdaSTMQ8Qvj/view?usp=sharing
 )
+---
+# Amazon App Store 
 
+### application submitted
+![submitted](./DemoImages/AmazonAppStorSubmitted.png)
+
+### Spplication Under Review
+![underreview](./DemoImages/AmazonAppstore_underreview.png)
+
+---
 
 **For Ios 🍎 avialbel soon...🚀
 
